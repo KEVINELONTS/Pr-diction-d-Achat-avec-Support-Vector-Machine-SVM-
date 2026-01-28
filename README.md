@@ -77,6 +77,6 @@ Test d’autres kernels (RBF, polynomial)
 
 Calcul de l’accuracy, precision et recall
 
-👤 Auteur
+ Auteur
 
-Projet réalisé par [Ton Nom]
+Projet réalisé par lntsi kevine
